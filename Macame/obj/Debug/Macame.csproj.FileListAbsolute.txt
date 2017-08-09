@@ -1,1 +1,10 @@
 c:\users\joao.regadas\documents\visual studio 2015\Projects\Macame\Macame\bin\Debug\Macame.exe.config
+C:\Users\joao.regadas\Desktop\GitHub\NewAulamatheu3bi\Macame\bin\Debug\Macame.exe.config
+C:\Users\joao.regadas\Desktop\GitHub\NewAulamatheu3bi\Macame\bin\Debug\Macame.exe
+C:\Users\joao.regadas\Desktop\GitHub\NewAulamatheu3bi\Macame\bin\Debug\Macame.pdb
+C:\Users\joao.regadas\Desktop\GitHub\NewAulamatheu3bi\Macame\obj\Debug\Macame.csprojResolveAssemblyReference.cache
+C:\Users\joao.regadas\Desktop\GitHub\NewAulamatheu3bi\Macame\obj\Debug\Macame.Form1.resources
+C:\Users\joao.regadas\Desktop\GitHub\NewAulamatheu3bi\Macame\obj\Debug\Macame.Properties.Resources.resources
+C:\Users\joao.regadas\Desktop\GitHub\NewAulamatheu3bi\Macame\obj\Debug\Macame.csproj.GenerateResource.Cache
+C:\Users\joao.regadas\Desktop\GitHub\NewAulamatheu3bi\Macame\obj\Debug\Macame.exe
+C:\Users\joao.regadas\Desktop\GitHub\NewAulamatheu3bi\Macame\obj\Debug\Macame.pdb
